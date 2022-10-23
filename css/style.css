@@ -1,0 +1,48 @@
+#rm{
+     text-align: center;
+     font-family: monospace;
+     color: white;
+     background-color: black;
+     font-size: 50px;
+     
+}
+
+.madrid{
+     text-align: center;
+     font-size: 25px;
+     font-family: monospace;
+}
+
+.heritage{
+     color: cornflowerblue;
+}
+
+.image {
+     height: 300px;
+     width: 500px;
+}
+
+.details {
+     font-size: 20px;
+     font-family: Georgia, Times, 'Times New Roman', serif;
+     text-align: justify;
+     line-height: 30px;
+}
+
+.real {
+     color: darkgray;
+     font-size: 40px;
+}
+
+.button {
+     text-decoration: none;
+     font-family: fantasy;
+     background-color: black;
+     color: white;
+     width: 100px;
+     height: 30px;
+     display: inline-block;
+     text-align: center;
+     line-height: 30px;
+
+}
